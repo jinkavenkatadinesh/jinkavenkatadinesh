@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+VENKATA DINESH JINKA<br>Jammalamadugu, Andhra Pradesh, India<br>jinkadinesh8@gmail.com | LinkedIn | GitHub<br>PROFESSIONAL SUMMARY<br>Motivated Data Science undergraduate with strong interest in Artificial Intelligence, Machine<br>Learning and data-driven solutions. Passionate about building real-world AI applications and<br>continuously learning modern technologies. Currently preparing for GATE 2027 in Data Science<br>and Artificial Intelligence while developing projects integrating machine learning, system design<br>and data analysis.<br>EDUCATION<br>Rajeev Gandhi Memorial College of Engineering & Technology<br>Bachelor of Technology in Computer Science (Data Science)<br>CGPA: 7.3 (as of now)<br>Z P High School Dommaranandyal<br>Secondary School Certificate (SSC)<br>Percentage: 98%<br>SKILLS<br>Nandyal, India<br>2023– 2027<br>Andhra Pradesh, India<br>2021<br>• Programming Languages: Python, C, Java<br>• Web Development: HTML, CSS, JavaScript<br>• Machine Learning & Data Science: Pandas, NumPy, Scikit-learn, Feature Engineering<br>• Tools: Git, GitHub, VS Code, Streamlit<br>• Areas of Interest: Artificial Intelligence, Machine Learning, Data Science<br>PROJECTS<br>InstaTrack- Real-Time Package Delivery Tracker<br>GitHub<br>• Developed a machine learning-based system to predict delivery ETA using regression models.<br>• Integrated GPS and traffic data for real-time tracking updates.<br>• Implemented multithreading to track multiple delivery agents concurrently.<br>• Designed an analytics dashboard for monitoring delivery performance.<br>Customer Segmentation using RFM Analysis<br>GitHub<br>• Performed customer segmentation on real-world retail transaction dataset using RFM (Recency,<br>Frequency, Monetary) analysis.<br>• Applied K-Means clustering with feature scaling, achieving Silhouette Score of 0.61 indicating<br>well-separated clusters.<br>1<br>• Identified 4 customer segments (VIP, Loyal, Occasional, Churned) and derived business strategies<br>for targeted marketing.<br>• Developed and deployed an interactive Streamlit dashboard for visualization and analysis of<br>customer segments.<br>ACHIEVEMENTS<br>• Preparing for GATE 2026 in Data Science and Artificial Intelligence.<br>• Developed multiple machine learning and data science projects.<br>• Continuously improving algorithmic and AI system design skills.<br>INTERESTS<br>• Artificial Intelligence<br>• Machine Learning<br>• Data Science<br>• Algorithmic Problem Solving<br>CERTIFICATIONS<br>• Data Analytics Job Simulation — Deloitte Australia (Forage)<br>• Gemini Certified University Student — Google<br>• Python Certification — Kaggle<br>• Pandas Certification — Kaggle<br>2
 
-<!--
-**jinkavenkatadinesh/jinkavenkatadinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jinkavenkatadinesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jinkavenkatadinesh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jinkavenkatadinesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jinkavenkatadinesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jinkavenkatadinesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=jinkavenkatadinesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
